@@ -5,6 +5,7 @@ This repository contains my solutions to [Jane Street's monthly puzzles](https:/
 ## About Jane Street Puzzles
 
 Jane Street, a quantitative trading firm, releases a new puzzle on the first of each month. These puzzles are diverse in nature, including:
+
 - Mathematical reasoning
 - Programming challenges
 - Logic puzzles
@@ -20,6 +21,7 @@ Each puzzle solution is contained in its own directory, named in the format:
 `MMM[YYYY]-PuzzleName` (e.g., `Oct2024-KnightMoves6`)
 
 A typical solution directory contains:
+
 - `README.md` - Problem description and solution explanation and collaboration notes
 - `index.js` - Implementation of the solution (for programming puzzles)
 - Additional files as needed (helper modules, test cases, etc.)
@@ -31,6 +33,7 @@ To avoid spoiling the current month's puzzle for others, the solution for the mo
 ## Technologies Used
 
 Solutions are implemented using:
+
 - JavaScript
 - Node.js
 - Custom helper modules for common puzzle-solving utilities
